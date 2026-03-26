@@ -22,7 +22,7 @@ We focus on quality craftsmanship, timely delivery, and client satisfaction.
 🏗️ Project Management <br>
 🎨 Interior & Exterior Design <br>
 
-🏆 Why Choose Us?
+Why Choose Us?
 =
 ✔ Strong Engineering Expertise
 ✔ High-Quality Materials
@@ -37,8 +37,9 @@ Modern Homes & Villas
 Office & Commercial Spaces
 Retail Buildings
 Structural & Civil Projects
-🌍 Our Vision
 
+Our Vision:
+=
 To become a trusted name in the construction industry by building durable, innovative, and sustainable structures.
 
 Our Mission:
