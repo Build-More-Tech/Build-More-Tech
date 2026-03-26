@@ -1,4 +1,5 @@
 <b> Build More Private Limited </b>
+=
 
 Welcome to Build More Private Limited — Building the future with strength, precision, and trust.
 
@@ -39,27 +40,20 @@ Structural & Civil Projects
 
 To become a trusted name in the construction industry by building durable, innovative, and sustainable structures.
 
-📈 Our Mission
-
+Our Mission:
+=
 To deliver projects with:
-
 Precision
 Integrity
 Excellence
+While maintaining the highest standards of safety and quality.
 
-while maintaining the highest standards of safety and quality.
-
-📫 Contact Us
-
-📧 Email: your-email@example.com
-
-📱 Phone / WhatsApp: +91 XXXXX XXXXX
+Contact Us:
+=
+📧 Email: buildmoretech@gmail.com
+📱 Phone / WhatsApp: +91 9259618288
 📍 Location: India
 
-🤝 Let's Build the Future Together
+Let's Build the Future Together
+<b> “Strong foundations create lasting impressions.” </b>
 
-“Strong foundations create lasting impressions.”
-
-⭐ Support Us
-
-If you like what we do, feel free to ⭐ our repositories and connect with us!
